@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SortTheWaterGame.vcxproj" Id="2bfb52e3-cf69-46c3-a6d7-24184d62da64" />
+</Solution>
